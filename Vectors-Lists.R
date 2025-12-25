@@ -12,6 +12,7 @@ x
 x <- 9:29 ## integer
 x
 x <- c(2+3i, -3+5i) ## complex
+x
 
 # Using the vector function
 x <- vector("numeric", length = 10)
